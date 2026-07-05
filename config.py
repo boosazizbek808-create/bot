@@ -3,7 +3,7 @@
 # ============================
 
 # @BotFather dan olingan bot tokeningizni shu yerga qo'ying
-BOT_TOKEN = "7221692893:AAF6bKJxh1xDNk2BSNM_V8pPOjvzz6pAv8g"
+BOT_TOKEN = "7671071954:AAErUy7AHkw_DWKvEvaS4o-m_t5QOrLAPxU"
 
 # Admin(lar) Telegram ID raqami(lari).
 # O'zingizning ID raqamingizni @userinfobot orqali bilib olishingiz mumkin.
